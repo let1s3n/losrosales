@@ -16,7 +16,7 @@ function App() {
         </Container>
       </Container>
       <Home />
-      <Container fluid className="py-sm-5">
+      <Container fluid className="py-sm-5 bg-light">
         <Container>
           <Footer />
         </Container>

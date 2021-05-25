@@ -15,21 +15,21 @@ const Footer = () => {
           <div className="row mt-4">
             <div className="col-6">
               <ul className="list-group list-group-flush">
-                <li className="list-group-item border-bottom-0">Sitio del grupo</li>
-                <li className="list-group-item border-bottom-0">Brasil</li>
-                <li className="list-group-item border-bottom-0">Chile</li>
-                <li className="list-group-item border-bottom-0">Sudáfrica</li>
-                <li className="list-group-item border-bottom-0">Kumba Iron Ore</li>
-                <li className="list-group-item border-bottom-0">Reino Unido</li>
+                <li className="list-group-item border-bottom-0 bg-light">Sitio del grupo</li>
+                <li className="list-group-item border-bottom-0 bg-light">Brasil</li>
+                <li className="list-group-item border-bottom-0 bg-light">Chile</li>
+                <li className="list-group-item border-bottom-0 bg-light">Sudáfrica</li>
+                <li className="list-group-item border-bottom-0 bg-light">Kumba Iron Ore</li>
+                <li className="list-group-item border-bottom-0 bg-light">Reino Unido</li>
               </ul>
             </div>
             <div className="col-6">
               <ul className="list-group list-group-flush">
-                <li className="list-group-item border-bottom-0">Australia</li>
-                <li className="list-group-item border-bottom-0">China</li>
-                <li className="list-group-item border-bottom-0">Finlandia</li>
-                <li className="list-group-item border-bottom-0">Grupo Fundación</li>
-                <li className="list-group-item border-bottom-0">Platino</li>
+                <li className="list-group-item border-bottom-0 bg-light">Australia</li>
+                <li className="list-group-item border-bottom-0 bg-light">China</li>
+                <li className="list-group-item border-bottom-0 bg-light">Finlandia</li>
+                <li className="list-group-item border-bottom-0 bg-light">Grupo Fundación</li>
+                <li className="list-group-item border-bottom-0 bg-light">Platino</li>
 
               </ul>
             </div>

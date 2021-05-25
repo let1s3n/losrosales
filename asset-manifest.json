@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/losrosales/static/css/main.72df5cec.chunk.css",
+    "main.js": "/losrosales/static/js/main.dc0d879e.chunk.js",
+    "main.js.map": "/losrosales/static/js/main.dc0d879e.chunk.js.map",
+    "runtime-main.js": "/losrosales/static/js/runtime-main.003a750c.js",
+    "runtime-main.js.map": "/losrosales/static/js/runtime-main.003a750c.js.map",
+    "static/js/2.8617cd60.chunk.js": "/losrosales/static/js/2.8617cd60.chunk.js",
+    "static/js/2.8617cd60.chunk.js.map": "/losrosales/static/js/2.8617cd60.chunk.js.map",
+    "index.html": "/losrosales/index.html",
+    "static/css/main.72df5cec.chunk.css.map": "/losrosales/static/css/main.72df5cec.chunk.css.map",
+    "static/js/2.8617cd60.chunk.js.LICENSE.txt": "/losrosales/static/js/2.8617cd60.chunk.js.LICENSE.txt",
+    "static/media/bottom-logo.ffff258e.png": "/losrosales/static/media/bottom-logo.ffff258e.png",
+    "static/media/pp1.d632b91c.png": "/losrosales/static/media/pp1.d632b91c.png",
+    "static/media/pp2.7a3a44af.png": "/losrosales/static/media/pp2.7a3a44af.png",
+    "static/media/pp3.c79384cd.png": "/losrosales/static/media/pp3.c79384cd.png",
+    "static/media/slide1.f0360688.jpeg": "/losrosales/static/media/slide1.f0360688.jpeg",
+    "static/media/slide2.07602ef4.jpg": "/losrosales/static/media/slide2.07602ef4.jpg",
+    "static/media/slide3.b3fffaf2.jpg": "/losrosales/static/media/slide3.b3fffaf2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.003a750c.js",
+    "static/js/2.8617cd60.chunk.js",
+    "static/css/main.72df5cec.chunk.css",
+    "static/js/main.dc0d879e.chunk.js"
+  ]
+}

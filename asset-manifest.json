@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/losrosales/static/css/main.40814802.chunk.css",
-    "main.js": "/losrosales/static/js/main.6759feb9.chunk.js",
-    "main.js.map": "/losrosales/static/js/main.6759feb9.chunk.js.map",
+    "main.js": "/losrosales/static/js/main.ff485f6b.chunk.js",
+    "main.js.map": "/losrosales/static/js/main.ff485f6b.chunk.js.map",
     "runtime-main.js": "/losrosales/static/js/runtime-main.003a750c.js",
     "runtime-main.js.map": "/losrosales/static/js/runtime-main.003a750c.js.map",
     "static/js/2.8617cd60.chunk.js": "/losrosales/static/js/2.8617cd60.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.003a750c.js",
     "static/js/2.8617cd60.chunk.js",
     "static/css/main.40814802.chunk.css",
-    "static/js/main.6759feb9.chunk.js"
+    "static/js/main.ff485f6b.chunk.js"
   ]
 }

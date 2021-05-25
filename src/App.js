@@ -14,15 +14,16 @@ function App() {
         <Container>
           <Navbar />
         </Container>
-        <Home />
-        <Container fluid className="py-sm-5">
-          <Container>
-            <Footer />
-          </Container>
-        </Container>
-
-
       </Container>
+      <Home />
+      <Container fluid className="py-sm-5">
+        <Container>
+          <Footer />
+        </Container>
+      </Container>
+
+
+
 
 
 

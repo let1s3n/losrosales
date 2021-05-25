@@ -5,8 +5,8 @@ const Footer = () => {
   return (
 
     <div>
-      <div className="row">
-        <div className="col-12 col-md-4">
+      <div className="row gy-5">
+        <div className="col-12 col-md-4 text-center">
           <img src={blogo} width="50" height="40" alt="bottom-logo" />
           <h4 className="d-inline align-bottom"> Los Rosales </h4>
         </div>

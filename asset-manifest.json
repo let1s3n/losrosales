@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/losrosales/static/css/main.72df5cec.chunk.css",
-    "main.js": "/losrosales/static/js/main.dc0d879e.chunk.js",
-    "main.js.map": "/losrosales/static/js/main.dc0d879e.chunk.js.map",
+    "main.css": "/losrosales/static/css/main.40814802.chunk.css",
+    "main.js": "/losrosales/static/js/main.6759feb9.chunk.js",
+    "main.js.map": "/losrosales/static/js/main.6759feb9.chunk.js.map",
     "runtime-main.js": "/losrosales/static/js/runtime-main.003a750c.js",
     "runtime-main.js.map": "/losrosales/static/js/runtime-main.003a750c.js.map",
     "static/js/2.8617cd60.chunk.js": "/losrosales/static/js/2.8617cd60.chunk.js",
     "static/js/2.8617cd60.chunk.js.map": "/losrosales/static/js/2.8617cd60.chunk.js.map",
     "index.html": "/losrosales/index.html",
-    "static/css/main.72df5cec.chunk.css.map": "/losrosales/static/css/main.72df5cec.chunk.css.map",
+    "static/css/main.40814802.chunk.css.map": "/losrosales/static/css/main.40814802.chunk.css.map",
     "static/js/2.8617cd60.chunk.js.LICENSE.txt": "/losrosales/static/js/2.8617cd60.chunk.js.LICENSE.txt",
     "static/media/bottom-logo.ffff258e.png": "/losrosales/static/media/bottom-logo.ffff258e.png",
     "static/media/pp1.d632b91c.png": "/losrosales/static/media/pp1.d632b91c.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.003a750c.js",
     "static/js/2.8617cd60.chunk.js",
-    "static/css/main.72df5cec.chunk.css",
-    "static/js/main.dc0d879e.chunk.js"
+    "static/css/main.40814802.chunk.css",
+    "static/js/main.6759feb9.chunk.js"
   ]
 }

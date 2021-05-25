@@ -1,0 +1,32 @@
+ @import "../node_modules/bootstrap/scss/bootstrap";
+body{
+  font-family: 'Roboto', sans-serif;
+}
+#main-header{
+  
+  height:auto;
+  /* background: url(./Assets/img/MLRBG.jpeg) 100%/cover no-repeat; */
+
+}
+
+.big-section{
+  height:500px;
+}
+.slide-img{
+  height:500px;
+}
+
+
+@media only screen and (min-width: 600px) {
+  .big-section{
+    height:750px;
+  }
+
+  .slide-img{
+    height:750px;
+  }
+.card{
+  height:400px;
+}
+
+}

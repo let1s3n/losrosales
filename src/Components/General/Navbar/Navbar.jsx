@@ -18,8 +18,6 @@ const CustomNavbar = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-
-            {/* <Nav.Link href="#link">Nosotros</Nav.Link> */}
             <Link className="nav-link" to="/nosotros">Nosotros</Link>
             <Link className="nav-link" to="/ambiental">Ambiental</Link>
             <Link className="nav-link" to="/puno">Puno</Link>
@@ -33,10 +31,10 @@ const CustomNavbar = () => {
           </Nav>
           <Form className="row row-cols-lg-auto">
             <div className="col-12">
-              <FormControl type="text" placeholder="Search" className="me-sm-2" />
+              <FormControl type="text" placeholder="Search" className="me-sm-2 mb-2 mb-sm-0 mt-2 mt-sm-0" />
             </div>
             <div className="col-12">
-              <Button variant="outline-success">Search</Button>
+              <Button variant="outline-success" className="mb-2 mb-sm-0" >Search</Button>
             </div>
           </Form>
         </Navbar.Collapse>

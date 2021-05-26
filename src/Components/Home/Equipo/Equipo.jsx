@@ -1,10 +1,10 @@
 import React from 'react'
-import { Card, Button } from 'react-bootstrap-v5'
+import { Card} from 'react-bootstrap-v5'
 
 import big1 from '../../../Assets/img/Equipo/1-1024x768.jpeg'
 import big2 from '../../../Assets/img/Equipo/2-1024x768.jpeg'
-import medium1 from '../../../Assets/img/Equipo/1-600x390.jpeg'
-import medium2 from '../../../Assets/img/Equipo/2-600x390.jpeg'
+/* import medium1 from '../../../Assets/img/Equipo/1-600x390.jpeg'
+import medium2 from '../../../Assets/img/Equipo/2-600x390.jpeg' */
 const Equipo = () => {
   return (
     <div>

@@ -1,4 +1,4 @@
-import React,{useEffect} from 'react'
+import React from 'react'
 import { Navbar, Nav, Form, NavDropdown, FormControl, Button } from 'react-bootstrap-v5'; // Para usar la versión navbarScrollingDropdown utilizar 'react-bootstrap'
 import logo from '../../../Assets/img/MLRLogo.png'
 import { Link } from 'react-router-dom'

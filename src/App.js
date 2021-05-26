@@ -1,5 +1,6 @@
 import './App.scss';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import React,{useEffect} from 'react'
 import Navbar from './Components/General/Navbar/Navbar'
 import Footer from './Components/General/Footer/Footer'
 import Home from './Components/Home/Home'
@@ -15,10 +16,24 @@ import ResultadosFinancieros from './Components/Medios/ResultadosFinancieros'
 import { Container } from 'react-bootstrap-v5'
 import { BrowserRouter as Router, Switch, Route, withRouter } from 'react-router-dom'
 function App() {
+  useEffect(() => {
+    const element = document.querySelector('#main-header');
+    
+    window.onscroll = () => {
+      console.log('X: ' + window.scrollX + ', Y: ' + window.scrollY)
+      if (window.scrollY >= 500) {
+        element.classList.remove("sticky-md-top");
+        element.classList.remove("zvalue-1");
+      }else{
+        element.classList.add("sticky-md-top");
+        element.classList.add("zvalue-1");
+      }
+    }
+  }, []);
   return (
     <div>
       <Router>
-        <Container fluid id="main-header" className="header p-0">
+        <Container fluid id="main-header" className="header p-0 sticky-md-top bg-white">
 
           <Container>
             <Navbar />

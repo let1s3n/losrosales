@@ -9,6 +9,10 @@ body{
 
 }
 
+.zvalue-1{
+  z-index:502;
+}
+
 /* .big-section{
   height:500px;
 } */
@@ -16,7 +20,10 @@ body{
   height:500px;
 }
 
-
+.custom-card{
+  
+  width:100%;
+}
 @media only screen and (min-width: 600px) {
   /* .big-section{
     height:750px;
@@ -25,8 +32,9 @@ body{
   .slide-img{
     height:750px;
   }
-.card{
-  height:400px;
-}
+  .custom-card{
+  
+    width:500px;
+  }
 
 }

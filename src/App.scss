@@ -1,4 +1,14 @@
+$position-values: (
+0:0,  
+10: 10%,
+50:50%,
+100:100%
+);
+
+ 
+ 
  @import "../node_modules/bootstrap/scss/bootstrap";
+ 
 body{
   font-family: 'Roboto', sans-serif;
 }
@@ -20,19 +30,27 @@ body{
   height:500px;
 }
 
-.custom-card{
+.customCard-team{
   
   width:100%;
+  .card-img-overlay{
+    display:none; 
+  }
 }
-@media only screen and (min-width: 600px) {
-  /* .big-section{
-    height:750px;
-  } */
 
+.customCard-team:hover{
+  
+  .card-img-overlay{
+    background-color: rgba(0, 0, 0, 0.65);
+    display:block; 
+  }
+}
+
+@media only screen and (min-width: 600px) {
   .slide-img{
     height:750px;
   }
-  .custom-card{
+  .customCard-team{
   
     width:500px;
   }

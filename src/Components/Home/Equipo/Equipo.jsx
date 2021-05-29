@@ -15,28 +15,32 @@ const Equipo = () => {
 
       <div class="row row-cols-auto justify-content-sm-evenly my-5 gy-3 gy-lg-0">
         <div class="col p-0">
-          <Card className="border-0 custom-card">
+          <Card className="border-0 customCard-team">
             <Card.Img src={big1} alt="Card image" style={{ width: '100%', height: '100%' }} />
             <Card.ImgOverlay>
+              <div className="position-absolute bottom-10">
               <Card.Title>Card title</Card.Title>
               <Card.Text>
                 This is a wider card with supporting text below as a natural lead-in to
                 additional content. This content is a little bit longer.
     </Card.Text>
               <Card.Text>Last updated 3 mins ago</Card.Text>
+              </div>
             </Card.ImgOverlay>
           </Card>
         </div>
         <div class="col p-0">
-          <Card className="border-0 custom-card">
+          <Card className="border-0 customCard-team">
             <Card.Img src={big2} alt="Card image" style={{ width: '100%', height: '100%' }} />
             <Card.ImgOverlay>
+            <div className="position-absolute bottom-10">
               <Card.Title>Card title</Card.Title>
               <Card.Text>
                 This is a wider card with supporting text below as a natural lead-in to
                 additional content. This content is a little bit longer.
     </Card.Text>
               <Card.Text>Last updated 3 mins ago</Card.Text>
+              </div>
             </Card.ImgOverlay>
           </Card>
         </div>

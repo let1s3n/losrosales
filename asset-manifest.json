@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/losrosales/static/css/main.eab25ed2.chunk.css",
-    "main.js": "/losrosales/static/js/main.49d6e504.chunk.js",
-    "main.js.map": "/losrosales/static/js/main.49d6e504.chunk.js.map",
+    "main.css": "/losrosales/static/css/main.f0ceda8f.chunk.css",
+    "main.js": "/losrosales/static/js/main.29d7e214.chunk.js",
+    "main.js.map": "/losrosales/static/js/main.29d7e214.chunk.js.map",
     "runtime-main.js": "/losrosales/static/js/runtime-main.003a750c.js",
     "runtime-main.js.map": "/losrosales/static/js/runtime-main.003a750c.js.map",
     "static/js/2.0dbc44c7.chunk.js": "/losrosales/static/js/2.0dbc44c7.chunk.js",
     "static/js/2.0dbc44c7.chunk.js.map": "/losrosales/static/js/2.0dbc44c7.chunk.js.map",
     "index.html": "/losrosales/index.html",
-    "static/css/main.eab25ed2.chunk.css.map": "/losrosales/static/css/main.eab25ed2.chunk.css.map",
+    "static/css/main.f0ceda8f.chunk.css.map": "/losrosales/static/css/main.f0ceda8f.chunk.css.map",
     "static/js/2.0dbc44c7.chunk.js.LICENSE.txt": "/losrosales/static/js/2.0dbc44c7.chunk.js.LICENSE.txt",
     "static/media/1-1024x768.149c566c.jpeg": "/losrosales/static/media/1-1024x768.149c566c.jpeg",
     "static/media/2-1024x768.c7f0f160.jpeg": "/losrosales/static/media/2-1024x768.c7f0f160.jpeg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.003a750c.js",
     "static/js/2.0dbc44c7.chunk.js",
-    "static/css/main.eab25ed2.chunk.css",
-    "static/js/main.49d6e504.chunk.js"
+    "static/css/main.f0ceda8f.chunk.css",
+    "static/js/main.29d7e214.chunk.js"
   ]
 }
